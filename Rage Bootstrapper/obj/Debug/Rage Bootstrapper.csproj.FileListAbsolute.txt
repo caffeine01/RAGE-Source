@@ -1,0 +1,10 @@
+D:\Projects\EXPLOITS ROBLOX\RAGE\Rage Bootstrapper\bin\Debug\Rage Bootstrapper.exe.config
+D:\Projects\EXPLOITS ROBLOX\RAGE\Rage Bootstrapper\bin\Debug\Rage Bootstrapper.exe
+D:\Projects\EXPLOITS ROBLOX\RAGE\Rage Bootstrapper\bin\Debug\Rage Bootstrapper.pdb
+D:\Projects\EXPLOITS ROBLOX\RAGE\Rage Bootstrapper\obj\Debug\Rage Bootstrapper.csprojAssemblyReference.cache
+D:\Projects\EXPLOITS ROBLOX\RAGE\Rage Bootstrapper\obj\Debug\Rage_Bootstrapper.Form1.resources
+D:\Projects\EXPLOITS ROBLOX\RAGE\Rage Bootstrapper\obj\Debug\Rage_Bootstrapper.Properties.Resources.resources
+D:\Projects\EXPLOITS ROBLOX\RAGE\Rage Bootstrapper\obj\Debug\Rage Bootstrapper.csproj.GenerateResource.cache
+D:\Projects\EXPLOITS ROBLOX\RAGE\Rage Bootstrapper\obj\Debug\Rage Bootstrapper.csproj.CoreCompileInputs.cache
+D:\Projects\EXPLOITS ROBLOX\RAGE\Rage Bootstrapper\obj\Debug\Rage Bootstrapper.exe
+D:\Projects\EXPLOITS ROBLOX\RAGE\Rage Bootstrapper\obj\Debug\Rage Bootstrapper.pdb
