@@ -1,7 +1,6 @@
 # RAGE-Source
 Source code for RAGE
 
-# If you are looking for the Axon DLL source, I am not willing to spend my time to upload it every Wednesday :)
-But i will provide the source that I am updating [here.](https://cdn.discordapp.com/attachments/756139656051163156/776467018278764594/AutoAxon.rar)
+# Update the Axon Adresses yourselves.
 
-* Created by Sir ZYX afaik. So, Creds to Sir ZYX for the Axon Source.
+* The Axon source that I am using was created by Sir ZYX afaik. So, Creds to Sir ZYX for the Axon Source.
