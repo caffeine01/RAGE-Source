@@ -4,7 +4,7 @@ using System.IO;
 using System.Runtime.InteropServices;
 using System.Text;
 
-namespace RAGE
+namespace RAGE_UI
 {
     class Injector
     {
@@ -132,4 +132,3 @@ namespace RAGE
         }
     }
 }
-

@@ -2,7 +2,7 @@
 using System.Threading;
 using System.Windows.Forms;
 
-namespace RAGE
+namespace RAGE_UI
 {
     class Functions
     {

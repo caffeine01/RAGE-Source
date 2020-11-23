@@ -54,7 +54,7 @@ void Executeee(std::string Script) {
 	Script = "spawn(function() script=Instance.new(\"LocalScript\") " + Script + "\r\nend)";
 
 
-	if (luaL_loadbuffer(m_L, Script.c_str(), Script.size(), "@RAGE"))\
+	if (luaL_loadbuffer(m_L, Script.c_str(), Script.size(), "@RAGE"))
 	{
 		//r_luaL_error(m_rL, lua_tostring(m_L, -1));
 		r_lua_getglobal(m_rL, "warn");
@@ -397,7 +397,8 @@ void main()
 		DrawingAPI::InitiateDrawingAPI(m_L); // this is the DrawingLib/Drawing API which lets you do things like esp which would be undetected :pog:
 		lua_newtable(m_L);
 		lua_setglobal(m_L, "_G");
-		CreateThread(NULL, NULL, (LPTHREAD_START_ROUTINE)input, NULL, NULL, NULL);}
+		CreateThread(NULL, NULL, (LPTHREAD_START_ROUTINE)input, NULL, NULL, NULL);
+}
 
 
 

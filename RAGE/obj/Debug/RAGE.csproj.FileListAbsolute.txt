@@ -8,3 +8,4 @@ D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE\obj\Debug\RAGE.csproj.CoreCompileInputs.ca
 D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE\obj\Debug\RAGE.csproj.Fody.CopyLocal.cache
 D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE\obj\Debug\RAGE.exe
 D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE\obj\Debug\RAGE.pdb
+D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE\obj\Debug\RAGE.csprojAssemblyReference.cache

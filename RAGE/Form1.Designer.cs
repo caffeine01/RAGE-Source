@@ -1,5 +1,5 @@
 ﻿
-namespace RAGE
+namespace RAGE_UI
 {
     partial class Form1
     {
@@ -31,7 +31,6 @@ namespace RAGE
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            this.fastColoredTextBox1 = new FastColoredTextBoxNS.FastColoredTextBox();
             this.Inject = new System.Windows.Forms.Button();
             this.ExecuteButton = new System.Windows.Forms.Button();
             this.ClearButton = new System.Windows.Forms.Button();
@@ -39,45 +38,10 @@ namespace RAGE
             this.StatusTimer = new System.Windows.Forms.Timer(this.components);
             this.StatusLabel = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            ((System.ComponentModel.ISupportInitialize)(this.fastColoredTextBox1)).BeginInit();
+            this.fastColoredTextBox1 = new FastColoredTextBoxNS.FastColoredTextBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.fastColoredTextBox1)).BeginInit();
             this.SuspendLayout();
-            // 
-            // fastColoredTextBox1
-            // 
-            this.fastColoredTextBox1.AutoCompleteBracketsList = new char[] {
-        '(',
-        ')',
-        '{',
-        '}',
-        '[',
-        ']',
-        '\"',
-        '\"',
-        '\'',
-        '\''};
-            this.fastColoredTextBox1.AutoScrollMinSize = new System.Drawing.Size(186, 13);
-            this.fastColoredTextBox1.BackBrush = null;
-            this.fastColoredTextBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(26)))), ((int)(((byte)(31)))));
-            this.fastColoredTextBox1.BookmarkColor = System.Drawing.Color.White;
-            this.fastColoredTextBox1.CharHeight = 13;
-            this.fastColoredTextBox1.CharWidth = 7;
-            this.fastColoredTextBox1.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.fastColoredTextBox1.DisabledColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(180)))), ((int)(((byte)(180)))), ((int)(((byte)(180)))));
-            this.fastColoredTextBox1.Font = new System.Drawing.Font("Courier New", 9F);
-            this.fastColoredTextBox1.ForeColor = System.Drawing.Color.White;
-            this.fastColoredTextBox1.IndentBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(36)))), ((int)(((byte)(42)))));
-            this.fastColoredTextBox1.IsReplaceMode = false;
-            this.fastColoredTextBox1.LineNumberColor = System.Drawing.Color.White;
-            this.fastColoredTextBox1.Location = new System.Drawing.Point(21, 23);
-            this.fastColoredTextBox1.Name = "fastColoredTextBox1";
-            this.fastColoredTextBox1.Paddings = new System.Windows.Forms.Padding(0);
-            this.fastColoredTextBox1.SelectionColor = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.fastColoredTextBox1.ServiceColors = ((FastColoredTextBoxNS.ServiceColors)(resources.GetObject("fastColoredTextBox1.ServiceColors")));
-            this.fastColoredTextBox1.Size = new System.Drawing.Size(399, 389);
-            this.fastColoredTextBox1.TabIndex = 10;
-            this.fastColoredTextBox1.Text = "--- Welcome to RAGE! --";
-            this.fastColoredTextBox1.Zoom = 100;
             // 
             // Inject
             // 
@@ -159,7 +123,42 @@ namespace RAGE
             this.pictureBox1.Size = new System.Drawing.Size(449, 552);
             this.pictureBox1.TabIndex = 11;
             this.pictureBox1.TabStop = false;
-            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
+            // 
+            // fastColoredTextBox1
+            // 
+            this.fastColoredTextBox1.AutoCompleteBracketsList = new char[] {
+        '(',
+        ')',
+        '{',
+        '}',
+        '[',
+        ']',
+        '\"',
+        '\"',
+        '\'',
+        '\''};
+            this.fastColoredTextBox1.AutoScrollMinSize = new System.Drawing.Size(186, 13);
+            this.fastColoredTextBox1.BackBrush = null;
+            this.fastColoredTextBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(26)))), ((int)(((byte)(31)))));
+            this.fastColoredTextBox1.BookmarkColor = System.Drawing.Color.White;
+            this.fastColoredTextBox1.CharHeight = 13;
+            this.fastColoredTextBox1.CharWidth = 7;
+            this.fastColoredTextBox1.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.fastColoredTextBox1.DisabledColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(180)))), ((int)(((byte)(180)))), ((int)(((byte)(180)))));
+            this.fastColoredTextBox1.Font = new System.Drawing.Font("Courier New", 9F);
+            this.fastColoredTextBox1.ForeColor = System.Drawing.Color.White;
+            this.fastColoredTextBox1.IndentBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(36)))), ((int)(((byte)(42)))));
+            this.fastColoredTextBox1.IsReplaceMode = false;
+            this.fastColoredTextBox1.LineNumberColor = System.Drawing.Color.White;
+            this.fastColoredTextBox1.Location = new System.Drawing.Point(21, 23);
+            this.fastColoredTextBox1.Name = "fastColoredTextBox1";
+            this.fastColoredTextBox1.Paddings = new System.Windows.Forms.Padding(0);
+            this.fastColoredTextBox1.SelectionColor = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.fastColoredTextBox1.ServiceColors = ((FastColoredTextBoxNS.ServiceColors)(resources.GetObject("fastColoredTextBox1.ServiceColors")));
+            this.fastColoredTextBox1.Size = new System.Drawing.Size(399, 389);
+            this.fastColoredTextBox1.TabIndex = 10;
+            this.fastColoredTextBox1.Text = "--- Welcome to RAGE! --";
+            this.fastColoredTextBox1.Zoom = 100;
             // 
             // Form1
             // 
@@ -180,8 +179,8 @@ namespace RAGE
             this.MinimizeBox = false;
             this.Name = "Form1";
             this.Text = "RAGE";
-            ((System.ComponentModel.ISupportInitialize)(this.fastColoredTextBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.fastColoredTextBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -192,10 +191,10 @@ namespace RAGE
         private System.Windows.Forms.Button ExecuteButton;
         private System.Windows.Forms.Button ClearButton;
         private System.Windows.Forms.Button OpenButton;
-        private FastColoredTextBoxNS.FastColoredTextBox fastColoredTextBox1;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label StatusLabel;
         private System.Windows.Forms.Timer StatusTimer;
+        private FastColoredTextBoxNS.FastColoredTextBox fastColoredTextBox1;
     }
 }
 

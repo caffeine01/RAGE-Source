@@ -1,0 +1,10 @@
+D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE\bin\Debug\RAGE_UI.exe.config
+D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE\bin\Debug\RAGE_UI.exe
+D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE\bin\Debug\RAGE_UI.pdb
+D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE\obj\Debug\RAGE_UI.Form1.resources
+D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE\obj\Debug\RAGE_UI.Properties.Resources.resources
+D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE\obj\Debug\RAGE_UI.csproj.GenerateResource.cache
+D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE\obj\Debug\RAGE_UI.csproj.CoreCompileInputs.cache
+D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE\obj\Debug\RAGE_UI.csproj.Fody.CopyLocal.cache
+D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE\obj\Debug\RAGE_UI.exe
+D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE\obj\Debug\RAGE_UI.pdb

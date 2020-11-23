@@ -1,1 +1,2 @@
 D:\Projects\EXPLOITS ROBLOX\AutoAxon\V3rm\Debug\V3rm.vcxprojAssemblyReference.cache
+D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Debug\V3rm.vcxprojAssemblyReference.cache

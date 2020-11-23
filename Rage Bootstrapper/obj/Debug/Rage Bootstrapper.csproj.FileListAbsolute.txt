@@ -1,6 +1,7 @@
 D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE Bootstrapper\bin\Debug\RAGE Bootstrapper.exe.config
 D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE Bootstrapper\bin\Debug\RAGE Bootstrapper.exe
 D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE Bootstrapper\bin\Debug\RAGE Bootstrapper.pdb
+D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE Bootstrapper\obj\Debug\RAGE Bootstrapper.csprojAssemblyReference.cache
 D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE Bootstrapper\obj\Debug\RAGE Bootstrapper.csproj.CoreCompileInputs.cache
 D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE Bootstrapper\obj\Debug\RAGE Bootstrapper.csproj.Fody.CopyLocal.cache
 D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE Bootstrapper\obj\Debug\RAGE Bootstrapper.exe

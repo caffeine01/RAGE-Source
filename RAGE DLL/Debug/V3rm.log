@@ -59,25 +59,25 @@ D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Drawing.cpp(896,217): warning C4244: '
   imgui_widgets.cpp
   Main.cpp
 D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\r_lua.h(6949,79): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
-D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(194,32): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
-D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(194,32): warning C4309: 'initializing': truncation of constant value
-D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(194,38): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
-D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(194,38): warning C4309: 'initializing': truncation of constant value
-D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(194,44): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
-D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(194,44): warning C4309: 'initializing': truncation of constant value
-D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(194,50): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
-D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(194,50): warning C4309: 'initializing': truncation of constant value
-D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(194,56): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
-D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(194,56): warning C4309: 'initializing': truncation of constant value
-D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(194,62): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
-D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(194,62): warning C4309: 'initializing': truncation of constant value
-D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(194,68): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
-D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(194,68): warning C4309: 'initializing': truncation of constant value
-D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(194,74): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
-D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(194,74): warning C4309: 'initializing': truncation of constant value
-D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(370,11): warning C4244: 'initializing': conversion from 'lua_Number' to 'int', possible loss of data
-D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(379,31): warning C4002: too many arguments for function-like macro invocation 'r_lua_tostring'
-D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(419,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(193,32): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(193,32): warning C4309: 'initializing': truncation of constant value
+D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(193,38): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(193,38): warning C4309: 'initializing': truncation of constant value
+D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(193,44): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(193,44): warning C4309: 'initializing': truncation of constant value
+D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(193,50): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(193,50): warning C4309: 'initializing': truncation of constant value
+D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(193,56): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(193,56): warning C4309: 'initializing': truncation of constant value
+D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(193,62): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(193,62): warning C4309: 'initializing': truncation of constant value
+D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(193,68): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(193,68): warning C4309: 'initializing': truncation of constant value
+D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(193,74): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(193,74): warning C4309: 'initializing': truncation of constant value
+D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(369,11): warning C4244: 'initializing': conversion from 'lua_Number' to 'int', possible loss of data
+D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(378,31): warning C4002: too many arguments for function-like macro invocation 'r_lua_tostring'
+D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Bridge.h(418,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
 D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Main.cpp(43,36): warning C4018: '<=': signed/unsigned mismatch
 D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Main.cpp(250,2): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Main.cpp(251,2): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
@@ -85,8 +85,8 @@ D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Main.cpp(362,20): warning C4018: '<': 
   Generating Code...
 D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Main.cpp(118): warning C4715: 'input': not all control paths return a value
 D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Main.cpp(320): warning C4715: 'FindFirstClass': not all control paths return a value
-D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Drawing.cpp(303): warning C4715: 'DrawingAPILuaAPI::Lua::Line::__newindex': not all control paths return a value
 D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Drawing.cpp(251): warning C4715: 'DrawingAPILuaAPI::Lua::Line::__index': not all control paths return a value
+D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Drawing.cpp(303): warning C4715: 'DrawingAPILuaAPI::Lua::Line::__newindex': not all control paths return a value
 D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Drawing.cpp(379): warning C4715: 'DrawingAPILuaAPI::Lua::Square::__index': not all control paths return a value
 D:\Projects\EXPLOITS ROBLOX\RAGE\RAGE DLL\Drawing.cpp(643): warning C4715: 'DrawingAPILuaAPI::Lua::Triangle::__index': not all control paths return a value
   lapi.c

@@ -110,7 +110,6 @@ static int GarbageCollector(lua_State* L) {
 		r_lua_pushnil(Bridge::m_rL);
 		r_lua_rawseti(Bridge::m_rL, LUA_REGISTRYINDEX, Reference);
 		r_lua_settop(Bridge::m_rL, 0);
-		MessageBox(0, "Gar Collected", "Collector", 0);
 		return 1;
 	}
 	lua_pop(L, 1);
