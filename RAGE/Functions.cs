@@ -31,17 +31,9 @@ namespace RAGE
                 Thread.Sleep(3000);//pause the ui for 3 seconds
                 if (!NamedPipes.NamedPipeExist(NamedPipes.luapipename))//check if the pipe dont exist
                 {
-                    MessageBox.Show("Injection Failed!\nMaybe you are Missing something\nor took more time to check if was ready\nor other stuff", "Error!", MessageBoxButtons.OK, MessageBoxIcon.Error);//display that the pipe was not found so the injection was unsuccessful
+                    MessageBox.Show("Injection Failed!\nPipe not found!", "Error!", MessageBoxButtons.OK, MessageBoxIcon.Error);//display that the pipe was not found so the injection was unsuccessful
                 }
             }
         }
-
-        public static OpenFileDialog openfiledialog = new OpenFileDialog
-        {
-            Filter = "Script File|*.txt;*.lua|All files (*.*)|*.*",//add txt,lua and all files filter
-            FilterIndex = 1,//choose what filter will be the default
-            RestoreDirectory = true,//restore the last used directory
-            Title = "RAGE Open Script"//OpenFileDialog Tittle
-        };//Initialize OpenFileDialog
     }
 }

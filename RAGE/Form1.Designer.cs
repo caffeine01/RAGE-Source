@@ -56,25 +56,25 @@ namespace RAGE
         '\"',
         '\'',
         '\''};
-            this.fastColoredTextBox1.AutoScrollMinSize = new System.Drawing.Size(211, 14);
+            this.fastColoredTextBox1.AutoScrollMinSize = new System.Drawing.Size(186, 13);
             this.fastColoredTextBox1.BackBrush = null;
             this.fastColoredTextBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(26)))), ((int)(((byte)(31)))));
             this.fastColoredTextBox1.BookmarkColor = System.Drawing.Color.White;
-            this.fastColoredTextBox1.CharHeight = 14;
-            this.fastColoredTextBox1.CharWidth = 8;
+            this.fastColoredTextBox1.CharHeight = 13;
+            this.fastColoredTextBox1.CharWidth = 7;
             this.fastColoredTextBox1.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.fastColoredTextBox1.DisabledColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(180)))), ((int)(((byte)(180)))), ((int)(((byte)(180)))));
-            this.fastColoredTextBox1.Font = new System.Drawing.Font("Courier New", 9.75F);
+            this.fastColoredTextBox1.Font = new System.Drawing.Font("Courier New", 9F);
             this.fastColoredTextBox1.ForeColor = System.Drawing.Color.White;
             this.fastColoredTextBox1.IndentBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(36)))), ((int)(((byte)(42)))));
             this.fastColoredTextBox1.IsReplaceMode = false;
             this.fastColoredTextBox1.LineNumberColor = System.Drawing.Color.White;
-            this.fastColoredTextBox1.Location = new System.Drawing.Point(23, 24);
+            this.fastColoredTextBox1.Location = new System.Drawing.Point(21, 23);
             this.fastColoredTextBox1.Name = "fastColoredTextBox1";
             this.fastColoredTextBox1.Paddings = new System.Windows.Forms.Padding(0);
             this.fastColoredTextBox1.SelectionColor = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.fastColoredTextBox1.ServiceColors = ((FastColoredTextBoxNS.ServiceColors)(resources.GetObject("fastColoredTextBox1.ServiceColors")));
-            this.fastColoredTextBox1.Size = new System.Drawing.Size(313, 390);
+            this.fastColoredTextBox1.Size = new System.Drawing.Size(399, 389);
             this.fastColoredTextBox1.TabIndex = 10;
             this.fastColoredTextBox1.Text = "--- Welcome to RAGE! --";
             this.fastColoredTextBox1.Zoom = 100;
@@ -85,9 +85,9 @@ namespace RAGE
             this.Inject.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.Inject.Font = new System.Drawing.Font("Roboto", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Inject.ForeColor = System.Drawing.Color.White;
-            this.Inject.Location = new System.Drawing.Point(262, 440);
+            this.Inject.Location = new System.Drawing.Point(264, 438);
             this.Inject.Name = "Inject";
-            this.Inject.Size = new System.Drawing.Size(75, 26);
+            this.Inject.Size = new System.Drawing.Size(78, 30);
             this.Inject.TabIndex = 4;
             this.Inject.Text = "Inject";
             this.Inject.UseVisualStyleBackColor = false;
@@ -99,9 +99,9 @@ namespace RAGE
             this.ExecuteButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.ExecuteButton.Font = new System.Drawing.Font("Roboto", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ExecuteButton.ForeColor = System.Drawing.Color.White;
-            this.ExecuteButton.Location = new System.Drawing.Point(103, 440);
+            this.ExecuteButton.Location = new System.Drawing.Point(102, 438);
             this.ExecuteButton.Name = "ExecuteButton";
-            this.ExecuteButton.Size = new System.Drawing.Size(74, 26);
+            this.ExecuteButton.Size = new System.Drawing.Size(75, 30);
             this.ExecuteButton.TabIndex = 5;
             this.ExecuteButton.Text = "Execute";
             this.ExecuteButton.UseVisualStyleBackColor = false;
@@ -113,9 +113,9 @@ namespace RAGE
             this.ClearButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.ClearButton.Font = new System.Drawing.Font("Roboto", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ClearButton.ForeColor = System.Drawing.Color.White;
-            this.ClearButton.Location = new System.Drawing.Point(23, 440);
+            this.ClearButton.Location = new System.Drawing.Point(21, 438);
             this.ClearButton.Name = "ClearButton";
-            this.ClearButton.Size = new System.Drawing.Size(74, 26);
+            this.ClearButton.Size = new System.Drawing.Size(75, 30);
             this.ClearButton.TabIndex = 6;
             this.ClearButton.Text = "Clear";
             this.ClearButton.UseVisualStyleBackColor = false;
@@ -127,9 +127,9 @@ namespace RAGE
             this.OpenButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.OpenButton.Font = new System.Drawing.Font("Roboto", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.OpenButton.ForeColor = System.Drawing.Color.White;
-            this.OpenButton.Location = new System.Drawing.Point(183, 440);
+            this.OpenButton.Location = new System.Drawing.Point(183, 438);
             this.OpenButton.Name = "OpenButton";
-            this.OpenButton.Size = new System.Drawing.Size(74, 26);
+            this.OpenButton.Size = new System.Drawing.Size(75, 30);
             this.OpenButton.TabIndex = 7;
             this.OpenButton.Text = "Open";
             this.OpenButton.UseVisualStyleBackColor = false;
@@ -138,27 +138,28 @@ namespace RAGE
             // StatusTimer
             // 
             this.StatusTimer.Enabled = true;
-            this.StatusTimer.Tick += new System.EventHandler(this.StatusTimer_Tick);
             // 
             // StatusLabel
             // 
             this.StatusLabel.AutoSize = true;
             this.StatusLabel.Font = new System.Drawing.Font("Roboto", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.StatusLabel.ForeColor = System.Drawing.Color.White;
-            this.StatusLabel.Location = new System.Drawing.Point(37, 496);
+            this.StatusLabel.Location = new System.Drawing.Point(43, 500);
             this.StatusLabel.Name = "StatusLabel";
             this.StatusLabel.Size = new System.Drawing.Size(93, 19);
             this.StatusLabel.TabIndex = 9;
             this.StatusLabel.Text = "Not Injected";
+            this.StatusLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(0, 1);
+            this.pictureBox1.Location = new System.Drawing.Point(-2, 0);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(445, 547);
+            this.pictureBox1.Size = new System.Drawing.Size(449, 552);
             this.pictureBox1.TabIndex = 11;
             this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // Form1
             // 
@@ -191,10 +192,10 @@ namespace RAGE
         private System.Windows.Forms.Button ExecuteButton;
         private System.Windows.Forms.Button ClearButton;
         private System.Windows.Forms.Button OpenButton;
-        private System.Windows.Forms.Timer StatusTimer;
-        private System.Windows.Forms.Label StatusLabel;
-        private System.Windows.Forms.PictureBox pictureBox1;
         private FastColoredTextBoxNS.FastColoredTextBox fastColoredTextBox1;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Label StatusLabel;
+        private System.Windows.Forms.Timer StatusTimer;
     }
 }
 

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Rage Bootstrapper")]
+[assembly: AssemblyTitle("RAGE Bootstrapper")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Rage Bootstrapper")]
+[assembly: AssemblyProduct("RAGE Bootstrapper")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("1be6fb9c-049c-498a-837b-0d1f996faf27")]
+[assembly: Guid("66a8e26d-df55-4e87-aa12-91e51d7b8365")]
 
 // Version information for an assembly consists of the following four values:
 //
