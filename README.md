@@ -1,6 +1,3 @@
 # RAGE-Source
-Source code for RAGE
-
-# Update the Axon Adresses yourselves.
-
-* The Axon source that I am using was created by Sir ZYX afaik. So, Creds to Sir ZYX for the Axon Source.
+Source code for RAGE - A Roblox LuaVM Script Executor DLL injector UI I made when i was like 12, which used the Axon source.
+Deleted Axon source because skidded cringe.
